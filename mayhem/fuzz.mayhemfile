@@ -1,0 +1,4 @@
+project: dns
+target: fuzz
+cmds:
+- cmd: /out/fuzz
